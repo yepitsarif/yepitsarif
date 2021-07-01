@@ -1,4 +1,4 @@
-# hello there :)
+# hello, there. :)
 <img src = "https://i.imgur.com/hX9GSQG.png">
 <!--
 
