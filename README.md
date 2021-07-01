@@ -1,4 +1,4 @@
-# Hello there :)
+# hello there :)
 <img src = "https://i.imgur.com/hX9GSQG.png">
 <!--
 **yepitsarif/yepitsarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
